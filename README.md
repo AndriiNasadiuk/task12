@@ -1,3 +1,4 @@
+![](https://github.com/AndriiNasadiuk/Task12/actions/workflows/main.yml/badge.svg)
 # Description
 This project is the Node.js backend part of an educational  project. It provides connection to DB, implements CRUD operations and sends responses to requests. 
 ## Setup
